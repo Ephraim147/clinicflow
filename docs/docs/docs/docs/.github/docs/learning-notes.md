@@ -11,3 +11,9 @@ why it exists, and one thing I learned.
 - A pull request is a review step before work joins main.
 - .gitignore keeps secrets like .env out of GitHub.
 - Commit messages follow "type: description" so history is readable.
+
+## T-01: Project folders
+- I split the project into backend, frontend, and docs so each part has
+  one clear home.
+- .gitkeep files are empty placeholders because Git ignores empty folders.
+- Planning the structure first (Phase 4) means I don't reorganize later.
